@@ -1,6 +1,6 @@
 name             'erichorne-intuit-myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Intuit, inc.'
+maintainer_email 'eric_horne@intuit.com'
 license          'All rights reserved'
 description      'Installs/Configures erichorne-intuit-myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
